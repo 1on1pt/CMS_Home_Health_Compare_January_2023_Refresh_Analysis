@@ -12,7 +12,7 @@ Comprehensive analysis of the CMS January 2023 Home Health Compare refresh.
 ## Overview
 ### What is CMS Care Compare?
 
-The Centers for Medicare and Medicaid Services (CMS) has provided a tool to **find** and **compare** the different types of Medicare providers.  These providers include:
+The Centers for Medicare and Medicaid Services (CMS) has provided a tool to **find** and **compare** the different types of Medicare providers.  The listed providers include:
 
 * Doctors and Clinicians
 * Hospitals
@@ -23,3 +23,4 @@ The Centers for Medicare and Medicaid Services (CMS) has provided a tool to **fi
 * Long Term Care Hospitals
 * Dialysis Facilities
 
+Care Compare provides information regarding providers and facilities, including contact information, location, quality, and patient experience.  The CMS Care Compare homepage can be found [here](https://www.medicare.gov/care-compare/).  
