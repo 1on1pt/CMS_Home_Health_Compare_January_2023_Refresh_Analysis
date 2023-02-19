@@ -62,3 +62,22 @@ The Patient Survey star ratings include four of the measures reported on Care Co
 CMS reports that the star rating does not include the *Willingness to Recommend the HHA* item because the results for this item are very similar to those based on the *Overall Rating of Care* item.
 
 Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
+
+### Resources
+#### Code:
+* 
+
+#### Data:
+* https://github.com/1on1pt/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv
+
+#### Software/Data Tools/Algorithms:
+* Jupyter Notebook 6.4.6
+* Python 3.7.11
+* scikit-learn
+* imbalanced-learn
+* RandomOverSampler
+* SMOTE
+* ClusterCentroids
+* SMOTEENN
+* BalancedRandomForestClassifier
+* EasyEnsembleClassifier
