@@ -58,7 +58,7 @@ The Patient Survey star ratings include four of the measures reported on Care Co
 * Communication Between Providers and Patients (Survey items: Q2, Q15, Q17, Q18, Q22, and Q23)
 * Specific Care Issues (Survey items: Q3, Q4, Q5, Q10, Q12, Q13, and Q14)
 * Overall Rating of Care Provided by the Home Health Agency (Q20)
-* 
+
 CMS reports that the star rating does not include the *Willingness to Recommend the HHA* item because the results for this item are very similar to those based on the *Overall Rating of Care* item.
 
 Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
