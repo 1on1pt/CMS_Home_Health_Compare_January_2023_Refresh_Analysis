@@ -27,3 +27,5 @@ Care Compare provides information regarding providers and facilities, including 
 
 ### Home Health Star Ratings
 
+The focus of this analysis is to take a deeper dive into the **quality** and **patient survey** data that CMS has made publically available through its [Provider Data Catalog](https://data.cms.gov/provider-data/).
+
