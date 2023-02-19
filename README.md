@@ -72,5 +72,5 @@ Additional detail regarding home health quality and patient survey star ratings 
 * https://github.com/1on1pt/CMS_Home_Health_Compare_January_2023_Refresh_Analysis/blob/main/Resources/HH_Provider_Jan2023.csv
 
 #### Software/Data Tools:
-* Jupyter Notebook 6.4.6
+* Jupyter Notebook 6.4.12
 * Python 3.7.11
