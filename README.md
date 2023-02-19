@@ -29,9 +29,36 @@ Care Compare provides information regarding providers and facilities, including 
 
 The focus of this analysis is to take a deeper dive into the **quality** and **patient survey** data that CMS has made publically available through its [Provider Data Catalog](https://data.cms.gov/provider-data/).  CMS updates Home Health Compare on a quarterly basis.  This analysis looks specifically at the data from the **January 2023 Care Compare Refresh**.
 
-Care Compare provides tools, including **star ratings** that summarize various current health care provider performance measures.  There are two types of home health star ratings:
+Care Compare provides tools, including **star ratings**, that summarize various current health care provider performance measures.  There are two types of home health star ratings:
 
 1.  Quality of Patient Care Star Ratings
 2.  Patient Survey Star Ratings
 
+#### Quality of Patient Care Star Ratings Overview
 
+All Medicare-certified HHAs may potentially receive a Quality of Patient Care Star Rating. HHAs must have data for at least 20 complete quality episodes for each measure to be reported on Home Health Care Compare. Completed episodes are paired with the start or resumption of care and end of care OASIS assessments. Episodes must have an end-of-care date within the 12-month reporting period, regardless of the start date. To have a Quality of Patient Care Star Rating computed, HHAs must have reported data for 5 of the 7 measures used in the Quality of Patient Care Star Ratings calculation. 
+
+The 7 measures that are part of the Quality of Patient Star Rating are:
+
+* Timely Initiation of Care (process measure)
+* Improvement in Ambulation (outcome measure)
+* Improvement in Bed Transferring (outcome measure)
+* Improvement in Bathing (outcome measure)
+* Improvement in Shortness of Breath (outcome measure)
+* Improvement in Management of Oral Medications (outcome measure)
+* Acute Care Hospitalization (claims-based) (outcome measure)
+
+#### Patient Survey Star Ratings Overview
+
+All Medicare-certified home health agencies (HHAs) have the potential to receive a Patient Survey Star Rating. However, HHAs must have 40 or more completed surveys over the four-quarter reporting period to receive Star Ratings for that reporting period. Home health agencies that do not have 40 or more completed surveys for calculating Star Ratings will still have their HHCAHPS data publicly reported on the Home Health Compare website, but they will not receive star ratings.  Patient survey (HHCAHPS) scores based on fewer than 40 completed surveys do not have sufficient statistical reliability to ensure that those scores measure true performance and not noise in the data for reporting star ratings.
+
+The Patient Survey star ratings include four of the measures reported on Care Compare:
+
+* Care of Patients (Survey items: Q9, Q16, Q19, and Q24)
+* Communication Between Providers and Patients (Survey items: Q2, Q15, Q17, Q18, Q22, and Q23)
+* Specific Care Issues (Survey items: Q3, Q4, Q5, Q10, Q12, Q13, and Q14)
+* Overall Rating of Care Provided by the Home Health Agency (Q20)
+* 
+CMS reports that the star rating does not include the *Willingness to Recommend the HHA* item because the results for this item are very similar to those based on the *Overall Rating of Care* item.
+
+Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
