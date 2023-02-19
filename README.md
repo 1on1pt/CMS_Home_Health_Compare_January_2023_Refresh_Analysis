@@ -5,7 +5,7 @@
 
 Comprehensive analysis of the CMS January 2023 Home Health Compare refresh.
 
-### Quicklinks
+### Quick Links
 * [Overview](#overview)
 
 
