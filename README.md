@@ -69,16 +69,8 @@ Additional detail regarding home health quality and patient survey star ratings 
 
 #### Data:
 * https://github.com/1on1pt/CMS_Home_Health_Compare_January_2023_Refresh_Analysis/blob/main/Resources/HHCAHPS_Provider_Jan2023.csv
-* 
+* https://github.com/1on1pt/CMS_Home_Health_Compare_January_2023_Refresh_Analysis/blob/main/Resources/HH_Provider_Jan2023.csv
 
-#### Software/Data Tools/Algorithms:
+#### Software/Data Tools:
 * Jupyter Notebook 6.4.6
 * Python 3.7.11
-* scikit-learn
-* imbalanced-learn
-* RandomOverSampler
-* SMOTE
-* ClusterCentroids
-* SMOTEENN
-* BalancedRandomForestClassifier
-* EasyEnsembleClassifier
