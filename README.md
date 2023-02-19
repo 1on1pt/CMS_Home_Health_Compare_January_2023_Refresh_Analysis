@@ -65,10 +65,10 @@ Additional detail regarding home health quality and patient survey star ratings 
 
 ### Resources
 #### Code:
-* 
+* HH_Care_Compare_January_2023.ipynb
 
 #### Data:
-* https://github.com/1on1pt/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv
+* 
 
 #### Software/Data Tools/Algorithms:
 * Jupyter Notebook 6.4.6
