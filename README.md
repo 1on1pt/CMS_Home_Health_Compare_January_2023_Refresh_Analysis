@@ -116,10 +116,15 @@ The three measures that had the **greatest correlation** to the overall quality 
 
 1. How often patients got better at walking or moving around (0.82)
 2. How often patients got better at bathing (0.82)
-3. How often patients got better at taking their drugs correctly by mouth
+3. How often patients got better at taking their drugs correctly by mouth (0.81)
 
-Interesting to note the 0.86 correlation between *How often patients got better at walking or moving around* and *How often patients got better at bathing*.  This correlation may be in part due to that a patient's level of mobility contributes to the bathing rating.
+Interesting to note the 0.86 correlation between *How often patients got better at walking or moving around* and *How often patients got better at bathing*.  This correlation may be in part due to a patient's level of mobility contributes to the bathing rating.
 
 Also, the 0.81 correlation between *How often patients got better at walking or moving around* and *How often patients got better at getting in and out of bed* demonstrates that ambulation/mobility is a contributing factor to the transfer measure.  I've often said that **ambulation is the gait way measure**.
+
+Here is a statistical description of the overall quality star rating and the seven outcome measures:
+
+![star_rating_describe](https://user-images.githubusercontent.com/94148420/220212509-927884cf-461c-4914-871c-75a50aca934c.png)
+
 
 
