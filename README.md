@@ -84,5 +84,7 @@ This data will be analyzed and presented on three levels:
 * matplotlib 3.6.2
 * numpy 1.23.5
 
+**Back to [Quick Links](#quick-links)**
+
 ## Quality Star Rating Analysis
 
