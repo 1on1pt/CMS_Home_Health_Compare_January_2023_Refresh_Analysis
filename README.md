@@ -112,4 +112,14 @@ Here is the heatmap showing the correlation of the overall quality of patient ca
 
 ![star_rating_corr_heatmap](https://user-images.githubusercontent.com/94148420/220210118-67c0a6f2-9f35-46a1-bf30-2b5798b63808.png)
 
+The three measures that had the **greatest correlation** to the overall quality of patient care star rating are:
+
+1. How often patients got better at walking or moving around (0.82)
+2. How often patients got better at bathing (0.82)
+3. How often patients got better at taking their drugs correctly by mouth
+
+Interesting to note the 0.86 correlation between *How often patients got better at walking or moving around* and *How often patients got better at bathing*.  This correlation may be in part due to that a patient's level of mobility contributes to the bathing rating.
+
+Also, the 0.81 correlation between *How often patients got better at walking or moving around* and *How often patients got better at getting in and out of bed* demonstrates that ambulation/mobility is a contributing factor to the transfer measure.  I've often said that **ambulation is the gait way measure**.
+
 
