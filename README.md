@@ -27,13 +27,7 @@ Care Compare provides information regarding providers and facilities, including 
 
 ### Home Health Star Ratings
 
-The focus of this analysis is to take a deeper dive into the **quality** and **patient survey** data that CMS has made publically available through its [Provider Data Catalog](https://data.cms.gov/provider-data/).  This data will be analyzed on three levels:
-
-* National level
-* State level
-* Type of Ownership level
-
-CMS updates Home Health Compare on a quarterly basis.  This analysis looks specifically at the data from the **January 2023 Care Compare Refresh**.
+The focus of this analysis is to take a deeper dive into the **quality** and **patient survey** data that CMS has made publically available through its [Provider Data Catalog](https://data.cms.gov/provider-data/).  CMS updates Home Health Compare on a quarterly basis.  This analysis looks specifically at the data from the **January 2023 Care Compare Refresh**.
 
 Care Compare provides tools, including **star ratings**, that summarize various current health care provider performance measures.  There are two types of home health star ratings:
 
@@ -66,6 +60,12 @@ The Patient Survey star ratings include these four measures reported on Care Com
 * Overall Rating of Care Provided by the Home Health Agency (Q20)
 
 CMS reports that the star rating does not include the *Willingness to Recommend the HHA* item because the results for this item are very similar to those based on the *Overall Rating of Care* item.
+
+This data will be analyzed on three levels:
+
+* National level
+* State level
+* Type of Ownership level
 
 Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
 
