@@ -63,7 +63,7 @@ CMS reports that the star rating does not include the *Willingness to Recommend 
 
 Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
 
-This data will be analyzed and presented on three levels:
+The quality and patient survey data will be analyzed and presented on three levels:
 
 * National level
 * State level
