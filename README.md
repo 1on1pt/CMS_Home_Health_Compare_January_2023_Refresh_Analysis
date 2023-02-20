@@ -88,3 +88,25 @@ The quality and patient survey data will be analyzed and presented on three leve
 
 ## Quality Star Rating Analysis
 
+There were a total of 11,609 Medicare certified agencies in the quality dataset. Of those Medicare certified agencies, **only 7786 (67%) had Quality Star Ratings**.  I found that to be an interesting finding and had expected the percentage to be higher.
+
+Once the quality dataset was "cleaned", a star rating dataframe was created that specifically captured the following quality data:
+
+* Overall Quality of Patient Care Star Rating
+
+**And the 7 measures that make up the overall Quality of Patient Care Star Rating**
+
+* How often the home health team began their patients care in a timely manner
+* How often patients got better at walking or moving around
+* How often patients got better at getting in and out of bed
+* How often patients got better at bathing
+* How often patients breathing improved
+* How often patients got better at taking their drugs correctly by mouth
+* How often home health patients had to be admitted to the hospital
+
+The purpose of this dataframe was to look at the corrrelation of each of the seven quality measures and their relationship with the overall quality rating.
+
+![star_rating_corr_chart](https://user-images.githubusercontent.com/94148420/220209715-58ba0577-d8a9-430d-a9cd-e9f6c8505d1b.png)
+
+
+
