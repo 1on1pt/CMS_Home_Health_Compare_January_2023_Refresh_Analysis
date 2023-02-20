@@ -36,7 +36,7 @@ Care Compare provides tools, including **star ratings**, that summarize various 
 
 ### Quality of Patient Care Star Ratings Overview
 
-CMS states that all Medicare-certified home health agengencies (HHAs) may potentially receive a Quality of Patient Care Star Rating. HHAs must have data for at least 20 complete quality episodes for each measure to be reported on Home Health Care Compare. Completed episodes are paired with the start or resumption of care and end of care OASIS assessments. Episodes must have an end-of-care date within the 12-month reporting period, regardless of the start date. To have a Quality of Patient Care Star Rating computed, HHAs must have reported data for 5 of the 7 measures used in the Quality of Patient Care Star Ratings calculation. 
+CMS states that all Medicare-certified home health agengencies (HHAs) may potentially receive a Quality of Patient Care Star Rating. HHAs must have data for at least 20 complete quality episodes for each measure to be reported on Home Health Care Compare. Completed episodes are paired with the start or resumption of care and end of care OASIS assessments.  OASIS is the *Outcome and Assessment Information Set* and is a group of standard data elements HHAs integrate into their comprehensive assessment, to collect and report quality data to CMS.  Episodes must have an end-of-care date within the 12-month reporting period, regardless of the start date. To have a Quality of Patient Care Star Rating computed, HHAs must have reported data for 5 of the 7 measures used in the Quality of Patient Care Star Ratings calculation. 
 
 The 7 measures that are part of the Quality of Patient Star Rating are:
 
