@@ -61,13 +61,13 @@ The Patient Survey star ratings include these four measures reported on Care Com
 
 CMS reports that the star rating does not include the *Willingness to Recommend the HHA* item because the results for this item are very similar to those based on the *Overall Rating of Care* item.
 
-This data will be analyzed on three levels:
+Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
+
+This data will be analyzed and presented on three levels:
 
 * National level
 * State level
 * Type of Ownership level
-
-Additional detail regarding home health quality and patient survey star ratings can be found [here](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIHomeHealthStarRatings).
 
 ### Resources
 #### Code:
