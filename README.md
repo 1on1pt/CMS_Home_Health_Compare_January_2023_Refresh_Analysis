@@ -7,7 +7,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 
 ### Quick Links
 * [Overview](#overview)
-
+*[Quality Star Rating Analysis](#quality star rating analysis)
 
 ## Overview
 ### What is CMS Care Compare?
