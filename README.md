@@ -134,3 +134,10 @@ Here is a statistical description of the overall quality star rating and the sev
 
 #### National Statistical Description
 
+![star_rating_describe](https://user-images.githubusercontent.com/94148420/220228027-5c8d77a7-a913-42b4-90e6-fead9c658377.png)
+
+#### National Boxplot
+
+![nat_sr_stat_boxpl](https://user-images.githubusercontent.com/94148420/220228297-3868edfb-3da5-4962-ace3-a1294497d29c.png)
+
+
