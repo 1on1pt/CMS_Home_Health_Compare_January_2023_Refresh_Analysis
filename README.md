@@ -128,5 +128,7 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the Star Rating Distribution?
 
+![qual_star_rating_dist_boxpl](https://user-images.githubusercontent.com/94148420/220226467-9e1ce9b5-bfd3-4fa5-83a1-824e0afea4d7.png)
+
 
 
