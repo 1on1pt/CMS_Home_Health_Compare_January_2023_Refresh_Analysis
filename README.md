@@ -126,9 +126,11 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ![star_rating_describe](https://user-images.githubusercontent.com/94148420/220212509-927884cf-461c-4914-871c-75a50aca934c.png)
 
-### What is the Star Rating Distribution?
+### What is the Star Rating Distribution Amongst Agencies?
 
 ![qual_star_rating_dist_boxpl](https://user-images.githubusercontent.com/94148420/220226467-9e1ce9b5-bfd3-4fa5-83a1-824e0afea4d7.png)
 
+### What is the National Level Quality Star Rating Distribution?
 
+#### National Statistical Description
 
