@@ -104,7 +104,7 @@ Once the quality dataset was "cleaned", a star rating dataframe was created that
 * How often patients got better at taking their drugs correctly by mouth
 * How often home health patients had to be admitted to the hospital
 
-The purpose of this dataframe is to look at the correlation of each of the seven quality measures and their relationship with the overall quality rating.
+### What is the Correlation of Each of the Seven Quality Measures and their Relationship with the Overall Quality Star Rating?
 
 ![star_rating_corr_chart](https://user-images.githubusercontent.com/94148420/220209715-58ba0577-d8a9-430d-a9cd-e9f6c8505d1b.png)
 
