@@ -132,12 +132,12 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the National Level Quality Star Rating Distribution?
 
-#### National Statistical Description
+#### National Quality Star Rating Statistical Description
 
 ![nat_sr_stat_dist](https://user-images.githubusercontent.com/94148420/220228434-86772925-33ff-432e-b453-f28b956e4d5d.png)
 
 
-#### National Boxplot
+#### National Star Rating Boxplot
 
 ![nat_sr_stat_boxpl](https://user-images.githubusercontent.com/94148420/220228297-3868edfb-3da5-4962-ace3-a1294497d29c.png)
 
