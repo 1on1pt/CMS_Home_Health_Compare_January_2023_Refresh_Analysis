@@ -151,9 +151,9 @@ Here is a statistical description of the overall quality star rating and the sev
 
 #### State Level Quality Star Rating Boxplot
 
-![state_sr_stat_boxpl_1](https://user-images.githubusercontent.com/94148420/220785049-9b2e17a0-1dad-4b91-a0ed-bbc755df0422.png width = "100" height = "100")
+![state_sr_stat_boxpl_1](https://user-images.githubusercontent.com/94148420/220785049-9b2e17a0-1dad-4b91-a0ed-bbc755df0422.png = 150x150)
 
-![state_sr_stat_boxpl_2](https://user-images.githubusercontent.com/94148420/220785203-16011696-5df9-4dbf-901f-9e1de60ae23e.png width = "100" height = '100')
+![state_sr_stat_boxpl_2](https://user-images.githubusercontent.com/94148420/220785203-16011696-5df9-4dbf-901f-9e1de60ae23e.png = 150x150)
 
 
 
