@@ -142,11 +142,13 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the State Level Quality Star Rating Distribution?
 
-#### <ins>State Level Quality Star Rating Statistical Description</ins>
+#### <ins>State Level Quality Star Rating Statistical Description (AK through MS)</ins>
 
-![state_sr_stat_desc_1](https://user-images.githubusercontent.com/94148420/220784348-385d3b30-851f-482c-b57f-21efe663ee5a.png)
+![state_sr_stat_desc_1a](https://user-images.githubusercontent.com/94148420/221028675-a65ab789-1f07-4705-bc0e-e9333f68213c.png)
 
-![state_sr_stat_desc_2](https://user-images.githubusercontent.com/94148420/220784520-53940502-760a-4833-9e4c-86b3bb40e493.png)
+#### <ins>State Level Quality Star Rating Statistical Description (MT through WY)</ins>
+
+![state_sr_stat_desc_2a](https://user-images.githubusercontent.com/94148420/221028907-8180600a-d1d6-40f4-aabe-10d828755b79.png)
 
 #### <ins>State Level Quality Star Rating Boxplot</ins>
 
