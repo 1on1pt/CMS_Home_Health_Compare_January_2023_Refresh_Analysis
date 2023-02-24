@@ -156,6 +156,28 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ![state_sr_stat_boxpl_2](https://user-images.githubusercontent.com/94148420/220785203-16011696-5df9-4dbf-901f-9e1de60ae23e.png)
 
+### What is the Quality Star Rating Distribution Based on Type of Ownership?
+
+CMS defines seven *types of ownership*:
+
+* GOVERNMENT - COMBINATION GOVT & VOLUNTARY
+* GOVERNMENT - LOCAL
+* GOVERNMENT - STATE/COUNTY
+* PROPRIETARY
+* VOLUNTARY NON-PROFIT - OTHER
+* VOLUNTARY NON-PROFIT - PRIVATE
+* VOLUNTARY NON PROFIT - RELIGIOUS AFFILIATION
+
+This analysis will look at each type of ownership separately to see if any differences exist.
+
+#### <ins>Type of Ownership Quality Star Rating Statistical Description</ins>
+
+![too_sr_desc](https://user-images.githubusercontent.com/94148420/221174991-b28401b5-f09b-4463-81ef-506bbfea63ab.png)
+
+#### <ins>Type of Ownership Quality Star Rating Boxplot</ins>
+
+![too_sr_boxplot](https://user-images.githubusercontent.com/94148420/221175388-28bb54b7-e668-454d-8b2f-e1c3455c9533.png)
+
 
 
 
