@@ -190,6 +190,21 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 #### <ins>Government Local Quality Star Rating Statistical Description</ins>
 
+![gov_loc_sr_desc](https://user-images.githubusercontent.com/94148420/221178404-3383f007-a1b2-4168-aa7f-f75a53cebd2b.png)
+
+#### <ins>Government Local Quality Star Rating Boxplot</ins>
+
+![gov_loc_sr_boxplot](https://user-images.githubusercontent.com/94148420/221178693-0046e36d-cd32-4160-a3de-b8e60ccf1998.png)
+
+#### <ins>Government State/County Quality Star Rating Statistical Description</ins>
+
+![gov_sc_sr_desc](https://user-images.githubusercontent.com/94148420/221179036-a8ae4e06-e396-4cf9-8d35-f76035394efd.png)
+
+#### <ins>Government State/County Quality Star Rating Boxplot</ins>
+
+![gov_sc_sr_boxplot](https://user-images.githubusercontent.com/94148420/221180386-56e41ba7-92e7-40fc-bc52-68af1afc39e0.png)
+
+
 
 
 
