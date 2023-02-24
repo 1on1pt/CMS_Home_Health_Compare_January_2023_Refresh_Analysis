@@ -237,7 +237,20 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 ![vol_np_private_sr_boxplot](https://user-images.githubusercontent.com/94148420/221188402-104d6928-3a76-48c5-bfe3-0e3058856546.png)
 
+## Publically Reported Measures NOT Included in the Star Rating Measure
 
+There are ten measures that are included in Home Health Care Compare that are *NOT* included in the Quality Star Rating.  These measures include:
+
+* How often the home health team taught patients (or their family caregivers) about their drugs
+* How often the home health team determined whether patients received a flu shot for the current flu season
+* How often patients receiving home health care needed urgent, unplanned care in the ER without being admitted
+* Changes in skin integrity post-acute care: pressure ulcer/injury
+* How often physician-recommended actions to address medication issues were completely timely
+* Percent of Residents Experiencing One or More Falls with Major Injury
+* Application of Percent of Long Term Care Hospital Patients with an Admission and Discharge Functional Assessment and a Care Plan that Addresses Function
+* Discharge to Community (DTC) Risk-Standardized Rate
+* Potentially Preventable 30-Day Post Discharge Readmission (PPR) Risk-Standardized Rate
+* How much Medicare spends on an episode of care at this agency, compared to Medicare spending across all agencies nationally
 
 
 
