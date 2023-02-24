@@ -158,7 +158,7 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the Quality Star Rating Distribution Based on Type of Ownership?
 
-CMS defines seven *types of ownership*:
+For home health, CMS defines seven *types of ownership*:
 
 * GOVERNMENT - COMBINATION GOVT & VOLUNTARY
 * GOVERNMENT - LOCAL
@@ -177,6 +177,19 @@ This analysis will look at each type of ownership separately to see if any diffe
 #### <ins>Type of Ownership Quality Star Rating Boxplot</ins>
 
 ![too_sr_boxplot](https://user-images.githubusercontent.com/94148420/221175388-28bb54b7-e668-454d-8b2f-e1c3455c9533.png)
+
+In addition to the boxplot above, each type of ownership was analyzed for its specific Quality Star Rating distribution.
+
+#### <ins>Government Combination Quality Star Rating Statistical Description</ins>
+
+![gov_combo_sr_desc](https://user-images.githubusercontent.com/94148420/221177343-d88ad39d-eb03-4d91-b4fb-4b341155878a.png)
+
+#### <ins>Government Combination Quality Star Rating Boxplot</ins>
+
+![gov_combo_sr_boxplot](https://user-images.githubusercontent.com/94148420/221177702-41385e7f-815d-44f2-a69e-9ce8f2cdce08.png)
+
+#### <ins>Government Local Quality Star Rating Statistical Description</ins>
+
 
 
 
