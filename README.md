@@ -194,7 +194,7 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 #### <ins>Government Local Quality Star Rating Boxplot</ins>
 
-![gov_loc_sr_boxplot](https://user-images.githubusercontent.com/94148420/221178693-0046e36d-cd32-4160-a3de-b8e60ccf1998.png)
+![gov_loc_sr_boxplot](https://user-images.githubusercontent.com/94148420/221186010-8029055d-8a2e-4cc5-b4e1-9b18e0bc15e8.png)
 
 #### <ins>Government State/County Quality Star Rating Statistical Description</ins>
 
@@ -203,6 +203,41 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 #### <ins>Government State/County Quality Star Rating Boxplot</ins>
 
 ![gov_sc_sr_boxplot](https://user-images.githubusercontent.com/94148420/221180386-56e41ba7-92e7-40fc-bc52-68af1afc39e0.png)
+
+
+#### <ins>Proprietary Quality Star Rating Statistical Description</ins>
+
+![prop_sr_desc](https://user-images.githubusercontent.com/94148420/221186328-bcf36aeb-a765-4e92-b136-06e7c2787bb3.png)
+
+#### <ins>Proprietary Quality Star Rating Boxplot</ins>
+
+![prop_sr_boxplot](https://user-images.githubusercontent.com/94148420/221186616-1be6f374-2ba3-402c-ad11-08f6d86f28d7.png)
+
+#### <ins>Voluntary Non-Profit Religious Quality Star Rating Statistical Description</ins>
+
+![vol_np_rel_sr_desc](https://user-images.githubusercontent.com/94148420/221186909-7d0eae07-402d-44db-8b2d-584529f59148.png)
+
+#### <ins>Voluntary Non-Profit Religious Quality Star Rating Boxplot</ins>
+
+![vol_np_rel_sr_boxplot](https://user-images.githubusercontent.com/94148420/221187262-eee42831-7766-47f4-9104-8a5e3cf3dc86.png)
+
+#### <ins>Voluntary Non-Profit Other Quality Star Rating Statistical Description</ins>
+
+![vol_np_other_sr_desc](https://user-images.githubusercontent.com/94148420/221187552-ed49d096-609a-4009-9e58-517da510e9b8.png)
+
+#### <ins>Voluntary Non-Profit Other Quality Star Rating Boxplot</ins>
+
+![vol_np_other_sr_boxplot](https://user-images.githubusercontent.com/94148420/221187811-91f9a434-7290-4bb0-974f-ae652d3c13b9.png)
+
+#### <ins>Voluntary Non-Profit Private Quality Star Rating Statistical Description</ins>
+
+![vol_np_private_sr_desc](https://user-images.githubusercontent.com/94148420/221188073-ee78f8e3-5a34-451b-aec0-8235edac3132.png)
+
+#### <ins>Voluntary Non-Profit Private Quality Star Rating Boxplot</ins>
+
+![vol_np_private_sr_boxplot](https://user-images.githubusercontent.com/94148420/221188402-104d6928-3a76-48c5-bfe3-0e3058856546.png)
+
+
 
 
 
