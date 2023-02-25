@@ -158,7 +158,7 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the Quality Star Rating Distribution Based on Type of Ownership?
 
-For home health, CMS defines seven *types of ownership*:
+For home health, CMS catagorizes seven *types of ownership*:
 
 * GOVERNMENT - COMBINATION GOVT & VOLUNTARY
 * GOVERNMENT - LOCAL
@@ -252,8 +252,39 @@ There are ten measures that are included in Home Health Care Compare that are *N
 * Potentially Preventable 30-Day Post Discharge Readmission (PPR) Risk-Standardized Rate
 * How much Medicare spends on an episode of care at this agency, compared to Medicare spending across all agencies nationally
 
+The following analysis will take a look at each of these ten measures at the National, State, and Type of Ownership level.
 
+### How Often the Home Health Team Taught Patients (or their family caregivers) About Their Drugs
 
+#### <ins>National Teaching Patients/Caregivers About Drugs Statistical Description</ins>
 
+![nat_teach_dr_desc](https://user-images.githubusercontent.com/94148420/221357626-83eebfde-5355-48a0-88b2-308306cee83c.png)
 
+#### <ins>National Teaching Patients/Caregivers About Drugs Boxplot</ins>
+
+![nat_teach_dr_boxplot](https://user-images.githubusercontent.com/94148420/221357743-2d60e093-9435-4468-ba57-126216141baf.png)
+
+#### <ins>State Level Teaching Patients/Caregivers About Drugs Statistical Description (AK through MS)</ins>
+
+![state_teach_dr_desc_1](https://user-images.githubusercontent.com/94148420/221358130-4f9a98f2-c8bb-49ae-842d-e18552f4a2c8.png)
+
+#### <ins>State Level Teaching Patients/Caregivers About Drugs Statistical Description (MT through WY)</ins>
+
+![state_teach_dr_desc_2](https://user-images.githubusercontent.com/94148420/221358342-0d27377c-10a3-4f65-9398-6ad703c71b96.png)
+
+#### <ins>State Level Teaching Patients/Caregivers About Drugs Boxplot</ins>
+
+![state_teach_dr_boxplot_1](https://user-images.githubusercontent.com/94148420/221358453-cefe084d-22c4-4586-85c2-50ab23c0c1ee.png)
+
+![state_teach_dr_boxplot_2](https://user-images.githubusercontent.com/94148420/221358530-24e44ea9-5af5-4e85-9b4e-20c7a5eb8db2.png)
+
+#### <ins>Type of Ownership Teaching Patients/Caregivers About Drugs Statistical Description</ins>
+
+![too_teach_dr_desc](https://user-images.githubusercontent.com/94148420/221358634-352a4cd6-2afa-4622-b9be-c84ce0e51f92.png)
+
+#### <ins>Type of Ownership Teaching Patients/Caregivers About Drugs Boxplot</ins>
+
+![too_teach_dr_boxplot](https://user-images.githubusercontent.com/94148420/221358706-71d730ce-6f69-43a7-bcb5-d4a4a91cf70c.png)
+
+### How Often the Home Health Team Determined Whether Patients Received a Flu Shot for the Current Flu Season
 
