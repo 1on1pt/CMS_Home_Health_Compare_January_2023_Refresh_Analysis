@@ -410,7 +410,7 @@ Take note of all the outliers!
 
 ![state_med_tim_boxplot_1](https://user-images.githubusercontent.com/94148420/221379356-2dbeeae4-5a6c-47ba-8bb7-9b0d146c8277.png)
 
-![state_med_tim_boxplot_2](https://user-images.githubusercontent.com/94148420/221379397-bb03bd58-9314-476d-acfa-c2f26f9e39a8.png)
+![state_med_tim_boxplot_2](https://user-images.githubusercontent.com/94148420/221379754-2f4b3682-345a-4c39-9a5f-c44c5fb19e7c.png)
 
 #### <ins>Type of Ownership Medication Issues Were Completed Timely Statistical Description</ins>
 
