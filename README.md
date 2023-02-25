@@ -3,7 +3,7 @@
 
 ![Home_Health_Star_Ratings](https://user-images.githubusercontent.com/94148420/214742886-5c719324-640a-4d44-b395-67b8bc43b719.png)
 
-Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This first edition will feature a comprehensive analysis of the **CMS January 2023 Home Health Compare Refresh**.
+Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This first edition will feature a comprehensive analysis and tell the data story of the **CMS January 2023 Home Health Compare Refresh**.
 
 ### Quick Links
 * [Overview](#overview)
