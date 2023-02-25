@@ -256,6 +256,8 @@ The following analysis will take a look at each of these ten measures at the Nat
 
 ### How Often the Home Health Team Taught Patients (or their family caregivers) About Their Drugs
 
+Take note of all the outliers!
+
 #### <ins>National Teaching Patients/Caregivers About Drugs Statistical Description</ins>
 
 ![nat_teach_dr_desc](https://user-images.githubusercontent.com/94148420/221357626-83eebfde-5355-48a0-88b2-308306cee83c.png)
