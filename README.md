@@ -358,4 +358,74 @@ Take note of all the outliers!
 
 ### Changes in Skin Integrity Post-Acute Care: Pressure Ulcer/Injury
 
+#### <ins>National Skin Integrity Pressure Ulcer/Injury Statistical Description</ins>
+
+![nat_si_pu_desc](https://user-images.githubusercontent.com/94148420/221378295-b2ff3e62-3175-4559-ba68-fbb3d4ba841d.png)
+
+#### <ins>National Skin Integrity Pressure Ulcer/Injury Boxplot</ins>
+
+![nat_si_pu_boxplot](https://user-images.githubusercontent.com/94148420/221378342-b22089c9-92fe-47b0-8946-63507ec82dc0.png)
+
+#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Statistical Description (AK through MS)</ins>
+
+![state_si_pu_desc_1](https://user-images.githubusercontent.com/94148420/221378455-c24b5eaa-dad4-4808-9018-c7caee8d5069.png)
+
+#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Statistical Description (MT through WY)</ins>
+
+![state_si_pu_desc_2](https://user-images.githubusercontent.com/94148420/221378556-848a94ea-70e2-4c62-b81d-e1a3302b90e9.png)
+
+#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Boxplot</ins>
+
+![state_si_pu_boxplot_1](https://user-images.githubusercontent.com/94148420/221378671-3fe51996-224c-4bc4-b2c8-a4081e089178.png)
+
+![state_si_pu_boxplot_2](https://user-images.githubusercontent.com/94148420/221378720-9d410906-a41c-4d9e-839f-f89c60492470.png)
+
+#### <ins>Type of Ownership Skin Integrity Pressure Ulcer/Injury Statistical Description</ins>
+
+![too_si_pu_desc](https://user-images.githubusercontent.com/94148420/221378795-8452a00b-b689-4cb8-88b0-8e4ba43436f8.png)
+
+#### <ins>Type of Ownership Skin Integrity Pressure Ulcer/Injury Boxplot</ins>
+
+![too_si_pu_boxplot](https://user-images.githubusercontent.com/94148420/221378872-e68a5ced-a5ed-487d-90db-8cd3fa75f90e.png)
+
+### How Often Physician-Recommended Actions to Address Medication Issues Were Completely Timely
+
+#### <ins>National Medication Issues Were Completed Timely Statistical Description</ins>
+
+![nat_med_tim_desc](https://user-images.githubusercontent.com/94148420/221379062-d7695596-51aa-4200-98a1-21b4165b2950.png)
+
+#### <ins>National Medication Issues Were Completed Timely Boxplot</ins>
+
+![nat_med_tim_boxplot](https://user-images.githubusercontent.com/94148420/221379108-c24df0fd-206a-4e91-905d-cb66f6514010.png)
+
+#### <ins>State Level Medication Issues Were Completed Timely Statistical Description (AK through MS)</ins>
+
+![state_med_tim_desc_1](https://user-images.githubusercontent.com/94148420/221379178-45dbc0d0-9dc1-45cc-8be5-c14b01a83b25.png)
+
+#### <ins>State Level Medication Issues Were Completed Timely Statistical Description (MT through WY)</ins>
+
+![state_med_tim_desc_2](https://user-images.githubusercontent.com/94148420/221379238-d12f81ad-9217-4640-b8f7-632b7930b8e2.png)
+
+#### <ins>State Level Medication Issues Were Completed Timely Boxplot</ins>
+
+![state_med_tim_boxplot_1](https://user-images.githubusercontent.com/94148420/221379356-2dbeeae4-5a6c-47ba-8bb7-9b0d146c8277.png)
+
+![state_med_tim_boxplot_2](https://user-images.githubusercontent.com/94148420/221379397-bb03bd58-9314-476d-acfa-c2f26f9e39a8.png)
+
+#### <ins>Type of Ownership Medication Issues Were Completed Timely Statistical Description</ins>
+
+![too_med_tim_desc](https://user-images.githubusercontent.com/94148420/221379462-f424f571-3310-48d0-844d-99f2596a13f0.png)
+
+#### <ins>Type of Ownership Medication Issues Were Completed Timely Boxplot</ins>
+
+![too_med_tim_boxplot](https://user-images.githubusercontent.com/94148420/221379512-efcd5282-8e91-4c88-ac93-2928c5537313.png)
+
+### Percent of Residents Experiencing One or More Falls with Major Injury
+
+
+
+
+
+
+
 
