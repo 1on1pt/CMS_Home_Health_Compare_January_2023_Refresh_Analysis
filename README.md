@@ -332,7 +332,8 @@ Take note of all the outliers!
 
 #### <ins>State Level ER Without Being Admitted Statistical Description (AK through MS)</ins>
 
-![state_er_wo_adm_desc_1](https://user-images.githubusercontent.com/94148420/221365162-79b08d4d-059c-4925-852b-ff3b1452fd7b.png)
+![state_er_wo_adm_desc_1](https://user-images.githubusercontent.com/94148420/221365742-cb41ffcc-c430-48a0-8b3a-72c9afbdd104.png)
+
 
 #### <ins>State Level ER Without Being Admitted Statistical Description (MT through WY)</ins>
 
