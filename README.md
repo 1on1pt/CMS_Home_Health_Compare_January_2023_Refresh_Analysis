@@ -290,3 +290,35 @@ Take note of all the outliers!
 
 ### How Often the Home Health Team Determined Whether Patients Received a Flu Shot for the Current Flu Season
 
+#### <ins>National Flu Shot Statistical Description</ins>
+
+![nat_flu_shot_desc](https://user-images.githubusercontent.com/94148420/221359181-6d360234-921b-4de0-bfb6-41e79583f26f.png)
+
+#### <ins>National Flu Shot Boxplot</ins>
+
+![nat_flu_shot_boxplot](https://user-images.githubusercontent.com/94148420/221359252-f4097cda-e76b-4caa-a6e6-a134aae45ec6.png)
+
+#### <ins>State Level Flu Shot Statistical Description (AK through MS)</ins>
+
+![state_flu_shot_desc_1](https://user-images.githubusercontent.com/94148420/221359370-6c7f53ba-9fd1-4096-a0d3-513956770e08.png)
+
+#### <ins>State Level Flu Shot Statistical Description (MT through WY)</ins>
+
+![state_flu_shot_desc_2](https://user-images.githubusercontent.com/94148420/221359450-175e3f87-fe05-4945-90bb-dd4b2921d1ce.png)
+
+#### <ins>State Level Flu Shot Boxplot</ins>
+
+![state_flu_shot_boxplot_1](https://user-images.githubusercontent.com/94148420/221359566-9c2bbe33-fb4f-4727-8bf7-9eb32047a62a.png)
+
+![state_flu_shot_boxplot_2](https://user-images.githubusercontent.com/94148420/221359608-5e38db7d-0738-45f3-9ec9-861ea70b136b.png)
+
+#### <ins>Type of Ownership Flu Shot Statistical Description</ins>
+
+![too_flu_shot_desc](https://user-images.githubusercontent.com/94148420/221359799-1c04f244-852e-413a-a6f2-5f190b47c61e.png)
+
+#### <ins>Type of Ownership Flu Shot Boxplot</ins>
+
+![too_flu_shot_boxplot](https://user-images.githubusercontent.com/94148420/221359858-74a9dc8b-4e75-46d5-ba80-9fd6246570ee.png)
+
+### How Often Patients Receiving Home Health Care Needed Urgent, Unplanned Care in the ER Without Being Admitted
+
