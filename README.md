@@ -8,6 +8,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 ### Quick Links
 * [Overview](#overview)
 * [Quality Star Rating Analysis](#quality-star-rating-analysis)
+* [Publically Reported Measures NOT Included in the Star Rating Measure](#publically-reported-measures-not-included-in-the-star-rating-measure)
 
 ## Overview
 ### What is CMS Care Compare?
@@ -236,6 +237,8 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 #### <ins>Voluntary Non-Profit Private Quality Star Rating Boxplot</ins>
 
 ![vol_np_private_sr_boxplot](https://user-images.githubusercontent.com/94148420/221188402-104d6928-3a76-48c5-bfe3-0e3058856546.png)
+
+**Back to [Quick Links](#quick-links)**
 
 ## Publically Reported Measures NOT Included in the Star Rating Measure
 
