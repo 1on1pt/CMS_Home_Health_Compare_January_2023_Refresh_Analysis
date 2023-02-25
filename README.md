@@ -322,3 +322,36 @@ Take note of all the outliers!
 
 ### How Often Patients Receiving Home Health Care Needed Urgent, Unplanned Care in the ER Without Being Admitted
 
+#### <ins>National ER Without Being Admitted Statistical Description</ins>
+
+![nat_er_wo_adm_desc](https://user-images.githubusercontent.com/94148420/221364902-2d421c75-653f-4de5-a9f7-1a5e16fa39e7.png)
+
+#### <ins>National ER Without Being Admitted Boxplot</ins>
+
+![nat_er_wo_adm_boxplot](https://user-images.githubusercontent.com/94148420/221365016-a9cd56c9-d48c-48aa-8296-b9ccc1f35188.png)
+
+#### <ins>State Level ER Without Being Admitted Statistical Description (AK through MS)</ins>
+
+![state_er_wo_adm_desc_1](https://user-images.githubusercontent.com/94148420/221365162-79b08d4d-059c-4925-852b-ff3b1452fd7b.png)
+
+#### <ins>State Level ER Without Being Admitted Statistical Description (MT through WY)</ins>
+
+![state_er_wo_adm_desc_2](https://user-images.githubusercontent.com/94148420/221365278-b6805330-9b64-4cc5-8a06-e9f4702a220d.png)
+
+#### <ins>State Level ER Without Being Admitted Boxplot</ins>
+
+![state_er_wo_adm_boxplot_1](https://user-images.githubusercontent.com/94148420/221365414-dd045922-b830-4358-bc59-5af895244e5d.png)
+
+![state_er_wo_adm_boxplot_2](https://user-images.githubusercontent.com/94148420/221365471-f900f957-aa88-47bd-bbdb-b3ccffee66e3.png)
+
+#### <ins>Type of Ownership ER Without Being Admitted Statistical Description</ins>
+
+![too_er_wo_adm_desc](https://user-images.githubusercontent.com/94148420/221365530-7c82e759-7e94-483b-8042-d88646e0e665.png)
+
+#### <ins>Type of Ownership ER Without Being Admitted Boxplot</ins>
+
+![too_er_wo_adm_boxplot](https://user-images.githubusercontent.com/94148420/221365585-398f63d5-d812-446f-8e1f-a343bd391bb5.png)
+
+### Changes in Skin Integrity Post-Acute Care: Pressure Ulcer/Injury
+
+
