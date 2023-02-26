@@ -630,3 +630,33 @@ Here is a statistical description of the overall patient survey star rating and 
 
 ### What is the National Level Patient Survey Rating Distribution?
 
+#### <ins>National Patient Survey Star Rating Statistical Description</ins>
+
+![nat_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221436132-388b13f6-0ae5-4e41-acca-1235d4c837ce.png)
+
+#### <ins>National Patient Survey Star Rating Boxplot</ins>
+
+![nat_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221436210-7a01dfe9-78e3-43b2-a04b-cd3541f3e32c.png)
+
+### What is the State Level Patient Survey Star Rating Distribution?
+
+#### <ins>State Patient Survey Star Rating Statistical Description (AK through MS)</ins>
+
+![state_ps_sr_desc_1](https://user-images.githubusercontent.com/94148420/221436443-0cd0eeec-5a94-4d64-9e39-f3d9a166ef04.png)
+
+#### <ins>State Patient Survey Star Rating Statistical Description (MT through WY)</ins>
+
+![state_ps_sr_desc_2](https://user-images.githubusercontent.com/94148420/221436593-de688e43-5c1c-4687-a5fe-75f07e83948d.png)
+
+#### <ins>State Patient Survey Star Rating Boxplot</ins>
+
+![state_ps_sr_boxplot_1](https://user-images.githubusercontent.com/94148420/221436774-0e2c479e-52e6-4dc7-8e56-59deaa5c4be7.png)
+
+![state_ps_sr_boxplot_2](https://user-images.githubusercontent.com/94148420/221436847-062caa6d-8617-4d73-9acc-04304d9a6fa9.png)
+
+### What is the Patient Survey Star Rating Distribution Based on Type of Ownership?
+
+#### <ins>Type of Ownership Patient Survey Star Rating Statistical Description</ins>
+
+
+
