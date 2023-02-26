@@ -10,6 +10,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 * [Quality Star Rating Analysis](#quality-star-rating-analysis)
 * [Publically Reported Measures NOT Included in the Star Rating Measure](#publically-reported-measures-not-included-in-the-star-rating-measure)
 * [Patient Survey Star Rating Analysis](#patient-survey-star-rating-analysis)
+* [Patient Survey Additional Analysis - Willingness to Recommend](#patient-survey-additional-analysis---willingness-to-recommend)
 * [Patient Survey Additional Analysis - Response Rate](#patient-survey-additional-analysis---response-rate)
 * [Summary](#summary)
 
@@ -724,7 +725,9 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 ![vol_np_private_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221441152-2b46c0cd-13e8-4b39-9289-36e13fc8f883.png)
 
-### Additional Analysis - Willingness to Recommend
+**Back to [Quick Links](#quick-links)**
+
+### Patient Survey Additional Analysis - Willingness to Recommend
 
 #### <ins>National Willingness to Recommend Statistical Description</ins>
 
