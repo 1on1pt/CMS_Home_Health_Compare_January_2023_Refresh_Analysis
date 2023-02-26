@@ -585,5 +585,32 @@ Take note of all the outliers!
 
 ## Patient Survey Star Rating Analysis
 
+There were a total of 11,609 Medicare certified agencies in the patient survey dataset. Of those Medicare certified agencies, **only 4720 (41%) had Patient Survey Star Ratings**.  Again, I found that to be an interesting finding and had expected the percentage to be higher.
+
+Once the patient survey dataset was "cleaned", a patient survey star rating dataframe was created and merged with the quality star rating dataframe.  The patient survey dataset only included the CMS Certification Number (CCN) and no other identifying information.  The two dataframes were merged so that there would be complete identifying information for each agency.  The merged quality star rating and patient survey star rating dataframe specifically captured the following patient survey data:
+
+* Overall Patient Survey Care Star Rating
+
+**And the 4 measures that make up the overall Patient Survey Star Rating**
+
+* Care of Patients
+* Communication Between Provider and Patients
+* Specific Care Issues
+* Overall Rating of Care Provided by the Home Health Agency
+
+Additional analysis will include the following:
+
+* Willingness to Recommend
+* Response Rate
+
+### What is the Correlation of Each of the Four Patient Survye Measures and their Relationship with the Overall Patient Survey Star Rating?
+
+![ps_sr_corr_desc_1](https://user-images.githubusercontent.com/94148420/221434935-342d801f-9943-4c63-8304-5dcf8cdcdfd5.png)
+
+![ps_sr_corr_desc_2](https://user-images.githubusercontent.com/94148420/221435007-1267ecde-fa79-4164-8d91-19da673120f0.png)
+
+Here is the heatmap showing the correlation of the overall patient survey star rating and the four patient survey measures:
+
+![ps_sr_corr_heatmap](https://user-images.githubusercontent.com/94148420/221435052-3db566d2-7574-4562-a811-84f1a9879ca1.png)
 
 
