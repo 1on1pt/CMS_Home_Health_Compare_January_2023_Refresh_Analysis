@@ -10,6 +10,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 * [Quality Star Rating Analysis](#quality-star-rating-analysis)
 * [Publically Reported Measures NOT Included in the Star Rating Measure](#publically-reported-measures-not-included-in-the-star-rating-measure)
 * [Patient Survey Star Rating Analysis](#patient-survey-star-rating-analysis)
+* [Patient Survey Additional Analysis - Response Rate](#patient-survey-additional-analysis---response-rate)
 * [Summary](#summary)
 
 ## Overview
@@ -755,7 +756,9 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 ![too_wtr_boxplot](https://user-images.githubusercontent.com/94148420/221442147-406bbc1b-9306-48f2-8318-92ee93c20afd.png)
 
-### Additional Analysis - Response Rate
+**Back to [Quick Links](#quick-links)**
+
+### Patient Survey Additional Analysis - Response Rate
 
 #### <ins>National Response Rate Statistical Description</ins>
 
