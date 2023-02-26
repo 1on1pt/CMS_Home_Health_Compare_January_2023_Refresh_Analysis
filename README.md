@@ -347,7 +347,7 @@ Take note of all the outliers!
 
 ![state_er_wo_adm_boxplot_1](https://user-images.githubusercontent.com/94148420/221365414-dd045922-b830-4358-bc59-5af895244e5d.png)
 
-![state_er_wo_adm_boxplot_2](https://user-images.githubusercontent.com/94148420/221365471-f900f957-aa88-47bd-bbdb-b3ccffee66e3.png)
+![state_er_wo_adm_boxplot_2](https://user-images.githubusercontent.com/94148420/221422617-5dc26969-aa93-4da4-88b6-4945a5143a65.png)
 
 #### <ins>Type of Ownership ER Without Being Admitted Statistical Description</ins>
 
