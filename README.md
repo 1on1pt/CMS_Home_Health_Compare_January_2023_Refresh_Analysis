@@ -641,11 +641,11 @@ Here is a statistical description of the overall patient survey star rating and 
 
 ### What is the State Level Patient Survey Star Rating Distribution?
 
-#### <ins>State Patient Survey Star Rating Statistical Description (AK through MS)</ins>
+#### <ins>State Patient Survey Star Rating Statistical Description (AK through MT)</ins>
 
 ![state_ps_sr_desc_1](https://user-images.githubusercontent.com/94148420/221436443-0cd0eeec-5a94-4d64-9e39-f3d9a166ef04.png)
 
-#### <ins>State Patient Survey Star Rating Statistical Description (MT through WY)</ins>
+#### <ins>State Patient Survey Star Rating Statistical Description (NC through WY)</ins>
 
 ![state_ps_sr_desc_2](https://user-images.githubusercontent.com/94148420/221443248-6d354806-20e4-4f32-ad17-0f6ea4ebc7a9.png)
 
