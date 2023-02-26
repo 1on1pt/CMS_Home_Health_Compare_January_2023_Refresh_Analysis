@@ -128,7 +128,7 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ![star_rating_describe](https://user-images.githubusercontent.com/94148420/220212509-927884cf-461c-4914-871c-75a50aca934c.png)
 
-### What is the Star Rating Distribution Amongst Agencies?
+### What is the Quality Star Rating Distribution Amongst Agencies?
 
 ![qual_star_rating_dist_boxpl](https://user-images.githubusercontent.com/94148420/220226467-9e1ce9b5-bfd3-4fa5-83a1-824e0afea4d7.png)
 
@@ -603,7 +603,7 @@ Additional analysis will include the following:
 * Willingness to Recommend
 * Response Rate
 
-### What is the Correlation of Each of the Four Patient Survye Measures and their Relationship with the Overall Patient Survey Star Rating?
+### What is the Correlation of Each of the Four Patient Survey Measures and their Relationship with the Overall Patient Survey Star Rating?
 
 ![ps_sr_corr_desc_1](https://user-images.githubusercontent.com/94148420/221434935-342d801f-9943-4c63-8304-5dcf8cdcdfd5.png)
 
@@ -613,4 +613,20 @@ Here is the heatmap showing the correlation of the overall patient survey star r
 
 ![ps_sr_corr_heatmap](https://user-images.githubusercontent.com/94148420/221435052-3db566d2-7574-4562-a811-84f1a9879ca1.png)
 
+Here is how the four measures correlated with the overall patient survey star rating:
+
+1. Star Rating for Care of Patients (0.84)
+2. Star Rating for Communication Between Provider and Patients (0.83)
+3. Star Rating for Specific Care Issues (0.77)
+4. Star Rating for Overall Rating of Care Provided by the Home Health Agency (0.84)
+
+Here is a statistical description of the overall patient survey star rating and the four outcome measures:
+
+![ps_sr_desc](https://user-images.githubusercontent.com/94148420/221435790-404fb31a-d931-4468-a37e-1c336065c41d.png)
+
+### What is the Patient Survey Star Rating Distribution Amongst Agencies?
+
+![ps_sr_all_agency_dist](https://user-images.githubusercontent.com/94148420/221435916-f76a24c1-260c-4a1e-9f71-71dba9fc68ca.png)
+
+### What is the National Level Patient Survey Rating Distribution?
 
