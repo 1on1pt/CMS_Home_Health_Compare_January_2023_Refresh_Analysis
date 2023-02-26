@@ -244,11 +244,11 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 There are ten measures that are included in Home Health Care Compare that are *NOT* included in the Quality Star Rating.  These measures include:
 
-* How often the home health team taught patients (or their family caregivers) about their drugs
-* How often the home health team determined whether patients received a flu shot for the current flu season
-* How often patients receiving home health care needed urgent, unplanned care in the ER without being admitted
-* Changes in skin integrity post-acute care: pressure ulcer/injury
-* How often physician-recommended actions to address medication issues were completely timely
+* How Often the Home Health Team Taught Patients (or Their Family Caregivers) About Their Drugs
+* How Often the Home Health Team Determined Whether Patients Received a Flu Shot for the Current Flu Season
+* How Often Patients Receiving Home Health Care Needed Urgent, Unplanned Care in the ER Without Being Admitted
+* Changes in Skin Integrity Post-Acute Care: Pressure Ulcer/Injury
+* How Often Physician-Recommended Actions to Address Medication Issues Were Completely Timely
 * Percent of Residents Experiencing One or More Falls with Major Injury
 * Application of Percent of Long Term Care Hospital Patients with an Admission and Discharge Functional Assessment and a Care Plan that Addresses Function
 * Discharge to Community (DTC) Risk-Standardized Rate
@@ -421,6 +421,73 @@ Take note of all the outliers!
 ![too_med_tim_boxplot](https://user-images.githubusercontent.com/94148420/221379512-efcd5282-8e91-4c88-ac93-2928c5537313.png)
 
 ### Percent of Residents Experiencing One or More Falls with Major Injury
+
+#### <ins>National Falls with Major Injury Statistical Description</ins>
+
+![nat_falls_desc](https://user-images.githubusercontent.com/94148420/221412682-c5d84748-4b7c-4456-b7d5-b0fd2dea6956.png)
+
+#### <ins>National Falls with Major Injury Boxplot</ins>
+
+![nat_falls_boxplot](https://user-images.githubusercontent.com/94148420/221412746-8c9819e2-903c-423f-a987-c478f4a99e19.png)
+
+#### <ins>State Falls with Major Injury Statistical Description (AK through MS)</ins>
+
+![state_falls_desc_1](https://user-images.githubusercontent.com/94148420/221412901-cd90723f-37f3-4169-ba85-295f44caf198.png)
+
+#### <ins>State Falls with Major Injury Statistical Description (MT through WY)</ins>
+
+![state_falls_desc_2](https://user-images.githubusercontent.com/94148420/221413020-3c0fb8e4-ebf8-4e7a-a217-0eb45b19defc.png)
+
+#### <ins>State Falls with Major Injury Boxplot</ins>
+
+![state_falls_boxplot_1](https://user-images.githubusercontent.com/94148420/221413171-65b3ceb1-18db-414e-9ac8-634d283e5d9d.png)
+
+![state_falls_boxplot_2](https://user-images.githubusercontent.com/94148420/221413235-83af0bd4-2f8f-4393-b759-8c3bcdd5ed8a.png)
+
+#### <ins>Type of Ownership Falls with Major Injury Statistical Description</ins>
+
+![too_falls_desc](https://user-images.githubusercontent.com/94148420/221413421-d29eff6d-058f-49d3-88f4-5710228dc957.png)
+
+#### <ins>Type of Ownership Falls with Major Injury Boxplot</ins>
+
+![too_falls_boxplot](https://user-images.githubusercontent.com/94148420/221413516-3b673d1c-2ec0-4915-a03d-907fef7877a4.png)
+
+### Application of Percent of Long Term Care Hospital Patients with an Admission and Discharge Functional Assessment and a Care Plan that Addresses Function
+
+#### <ins>National Care Plan Addresses Function Statistical Description</ins>
+
+![nat_care_plan_desc](https://user-images.githubusercontent.com/94148420/221413730-770fd1aa-751b-4320-823b-d95081baace1.png)
+
+#### <ins>National Care Plan Addresses Function Boxplot</ins>
+
+![nat_care_plan_boxplot](https://user-images.githubusercontent.com/94148420/221413863-6b3d3eb4-1722-4b54-b295-078bc0f40b5e.png)
+
+#### <ins>State Care Plan Addresses Function Statistical Description (AK through MS)</ins>
+
+![state_care_plan_desc_1](https://user-images.githubusercontent.com/94148420/221414070-c6865113-0401-4d8a-a8e9-c01ecbf7cfba.png)
+
+#### <ins>State Care Plan Addresses Function Statistical Description (MT through WY)</ins>
+
+![state_care_plan_desc_2](https://user-images.githubusercontent.com/94148420/221414153-8b48b585-92e9-4e62-86a3-1a4ee3ea10eb.png)
+
+#### <ins>State Care Plan Addresses Function Boxplot</ins>
+
+![state_care_plan_boxplot_1](https://user-images.githubusercontent.com/94148420/221414411-9b3b1958-b3ce-4cea-bda4-b40e09d30e5e.png)
+
+![state_care_plan_boxplot_2](https://user-images.githubusercontent.com/94148420/221414480-5b7de2e0-0326-4cd3-84a2-f2bdbb7ab008.png)
+
+#### <ins>Type of Ownership Care Plan Addresses Function Statistical Description</ins>
+
+![too_care_plan_desc](https://user-images.githubusercontent.com/94148420/221414593-fd5a1bb7-e26e-4f35-b90c-17c7b44f4529.png)
+
+#### <ins>Type of Ownership Care Plan Addresses Function Boxplot</ins>
+
+![too_care_plan_boxplot](https://user-images.githubusercontent.com/94148420/221414686-4cb90047-00f9-48eb-9302-a82e29dba242.png)
+
+### Discharge to Community (DTC) Risk-Standardized Rate
+
+
+
 
 
 
