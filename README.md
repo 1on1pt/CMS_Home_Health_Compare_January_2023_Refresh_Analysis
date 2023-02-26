@@ -9,6 +9,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 * [Overview](#overview)
 * [Quality Star Rating Analysis](#quality-star-rating-analysis)
 * [Publically Reported Measures NOT Included in the Star Rating Measure](#publically-reported-measures-not-included-in-the-star-rating-measure)
+* [Patient Survey Star Rating Analysis](#patient-survey-star-rating-analysis)
 
 ## Overview
 ### What is CMS Care Compare?
@@ -253,7 +254,7 @@ There are ten measures that are included in Home Health Care Compare that are *N
 * Application of Percent of Long Term Care Hospital Patients with an Admission and Discharge Functional Assessment and a Care Plan that Addresses Function
 * Discharge to Community (DTC) Risk-Standardized Rate
 * Potentially Preventable 30-Day Post Discharge Readmission (PPR) Risk-Standardized Rate
-* How much Medicare spends on an episode of care at this agency, compared to Medicare spending across all agencies nationally
+* How much Medicare Spends on an Episode of Care at this Agency, Compared to Medicare Spending Across All Agencies Nationally
 
 The following analysis will take a look at each of these ten measures at the National, State, and Type of Ownership level.
 
@@ -486,13 +487,103 @@ Take note of all the outliers!
 
 ### Discharge to Community (DTC) Risk-Standardized Rate
 
+#### <ins>National Discharge to Community Statistical Description</ins>
 
+![nat_dtc_desc](https://user-images.githubusercontent.com/94148420/221418235-46a36348-77ac-4a6d-9dc1-c684daf87e2e.png)
 
+#### <ins>National Discharge to Community Boxplot</ins>
 
+![nat_dtc_boxplot](https://user-images.githubusercontent.com/94148420/221418450-f31fc486-ec05-48a2-9a7e-bbdeed248b18.png)
 
+#### <ins>State Discharge to Community Statistical Description (AK through MS)</ins>
 
+![state_dtc_desc_1](https://user-images.githubusercontent.com/94148420/221418572-7f5d4814-3acc-416d-b0e7-34b60c69dc13.png)
 
+#### <ins>State Discharge to Community Statistical Description (MT through WY)</ins>
 
+![state_dtc_desc_2](https://user-images.githubusercontent.com/94148420/221418674-30aa24e4-e1eb-497a-ac5e-efecc147f4f2.png)
+
+#### <ins>State Discharge to Community Boxplot</ins>
+
+![state_dtc_boxplot_1](https://user-images.githubusercontent.com/94148420/221418787-d5b01dc7-216b-43db-bdff-1aec89cac1c3.png)
+
+![state_dtc_boxplot_2](https://user-images.githubusercontent.com/94148420/221418939-dffa86c0-08d2-4907-a6dd-47b3ef7fefa5.png)
+
+#### <ins>Type of Ownership Discharge to Community Statistical Description</ins>
+
+![too_dtc_desc](https://user-images.githubusercontent.com/94148420/221419240-6f57fc8f-8ae1-4669-a38c-68b79acaa30b.png)
+
+#### <ins>Type of Ownership Discharge to Community Boxplot</ins>
+
+![too_dtc_boxplot](https://user-images.githubusercontent.com/94148420/221419347-22f87e54-430e-4c65-aca2-134a105d00c9.png)
+
+### Potentially Preventable 30-Day Post Discharge Readmission (PPR) Risk-Standardized Rate
+
+#### <ins>National 30-Day Readmission Statistical Description</ins>
+
+![nat_readmit_desc](https://user-images.githubusercontent.com/94148420/221419523-3381997f-9c1e-4b81-9a70-164a8d69a541.png)
+
+#### <ins>National 30-Day Readmission Boxplot</ins>
+
+![nat_readmit_boxplot](https://user-images.githubusercontent.com/94148420/221419690-86e19ade-fd16-4f4c-b30c-9202416a556f.png)
+
+#### <ins>State 30-Day Readmission Statistical Description (AK through MS)</ins>
+
+![state_readmit_desc_1](https://user-images.githubusercontent.com/94148420/221419793-bbc6f63d-60f1-4458-b983-40928040bb41.png)
+
+#### <ins>State 30-Day Readmission Statistical Description (MT through WY)</ins>
+
+![state_readmit_desc_2](https://user-images.githubusercontent.com/94148420/221419960-b1bbd9ff-d772-423c-9872-5c62c2fd194b.png)
+
+#### <ins>State 30-Day Readmission Boxplot</ins>
+
+![state_readmit_boxplot_1](https://user-images.githubusercontent.com/94148420/221420229-eef376e8-21a9-419e-9009-01f4b7e46175.png)
+
+![state_readmit_boxplot_2](https://user-images.githubusercontent.com/94148420/221420269-555a57de-054d-4fb7-ac95-18a6d1fc61d5.png)
+
+#### <ins>Type of Ownership 30-Day Readmission Statistical Description</ins>
+
+![too_readmit_desc](https://user-images.githubusercontent.com/94148420/221420360-06b4c239-eb47-4ef8-97d3-72a946243a33.png)
+
+#### <ins>Type of Ownership 30-Day Readmission Boxplot</ins>
+
+![too_readmit_boxplot](https://user-images.githubusercontent.com/94148420/221420435-a6474db6-3e56-46cc-8a6a-8eb587e5cc14.png)
+
+### How much Medicare Spends on an Episode of Care at this Agency, Compared to Medicare Spending Across All Agencies Nationally
+
+#### <ins>National Medicare Spending Statistical Description</ins>
+
+![nat_spend_desc](https://user-images.githubusercontent.com/94148420/221420577-5a250438-dd3a-4bab-877e-a7d88bb9c995.png)
+
+#### <ins>National Medicare Spending Boxplot</ins>
+
+![nat_spend_boxplot](https://user-images.githubusercontent.com/94148420/221420651-64ef41a6-ebdf-4daf-81c3-5dbed8e647fc.png)
+
+#### <ins>State Medicare Spending Statistical Description (AK through MS)</ins>
+
+![state_spend_desc_1](https://user-images.githubusercontent.com/94148420/221420791-a2aca71d-fe84-4d61-9065-bce703c1e4b8.png)
+
+#### <ins>State Medicare Spending Statistical Description (MT through WY)</ins>
+
+![state_spend_desc_2](https://user-images.githubusercontent.com/94148420/221420892-74952fd8-f91c-4b6c-a68e-747d22d6c92f.png)
+
+#### <ins>State Medicare Spending Boxplot</ins>
+
+![state_spend_boxplot_1](https://user-images.githubusercontent.com/94148420/221420997-83c95405-d6d5-4595-a32a-1e517862b27c.png)
+
+![state_spend_boxplot_2](https://user-images.githubusercontent.com/94148420/221421068-3e853c61-bdb3-472e-a88e-e567b7072c5f.png)
+
+#### <ins>Type of Ownership Medicare Spending Statistical Description</ins>
+
+![too_spend_desc](https://user-images.githubusercontent.com/94148420/221421189-8a6c50a1-2200-4158-86ab-9d965fd710b9.png)
+
+#### <ins>Type of Ownership Medicare Spending Boxplot</ins>
+
+![too_spend_boxplot](https://user-images.githubusercontent.com/94148420/221421253-4f14f8e6-dcb9-40af-aa3a-ffc878678b77.png)
+
+**Back to [Quick Links](#quick-links)**
+
+## Patient Survey Star Rating Analysis
 
 
 
