@@ -658,5 +658,13 @@ Here is a statistical description of the overall patient survey star rating and 
 
 #### <ins>Type of Ownership Patient Survey Star Rating Statistical Description</ins>
 
+![too_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221439519-4b1f1bd4-2b62-40dc-81c2-283030790cd7.png)
 
+#### <ins>Type of Ownership Patient Survey Star Rating Boxplot</ins>
+
+![too_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221439622-47b15441-0a08-4a7d-8677-a0a9b20d6b89.png)
+
+In addition to the boxplot above, each type of ownership was analyzed for its specific Patient Survey Star Rating distribution.
+
+#### <ins>Government Combination Patient Survey Star Rating Statistical Description</ins>
 
