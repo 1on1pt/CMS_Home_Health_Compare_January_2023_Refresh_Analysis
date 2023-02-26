@@ -668,3 +668,124 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 #### <ins>Government Combination Patient Survey Star Rating Statistical Description</ins>
 
+![gov_combo_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440048-8a2b7995-459d-4380-bcb1-2de9790bbcbc.png)
+
+#### <ins>Government Combination Patient Survey Star Rating Boxplot</ins>
+
+![gov_combo_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221440173-2a6e2092-531b-4933-83ce-1cdb37c97191.png)
+
+#### <ins>Government Local Patient Survey Star Rating Statistical Description</ins>
+
+![gov_loc_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440264-6eb7b6f2-972a-41fb-88d2-355de39bb2cb.png)
+
+#### <ins>Government Local Patient Survey Star Rating Boxplot</ins>
+
+![gov_loc_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221440327-078a6b50-5c58-41fc-8d49-4cb757ba951d.png)
+
+#### <ins>Government State/County Patient Survey Star Rating Statistical Description</ins>
+
+![gov_sc_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440404-1f496158-ebdb-4702-bb8d-1b9916573e1d.png)
+
+#### <ins>Government State/County Patient Survey Star Rating Boxplot</ins>
+
+![gov_sc_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221440518-8fc78e75-f800-4522-a769-1460bb73942d.png)
+
+#### <ins>Proprietary Patient Survey Star Rating Statistical Description</ins>
+
+![prop_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440649-bd7962dd-b0ea-48c2-bf7d-05fc0555f7a1.png)
+
+#### <ins>Proprietary Patient Survey Star Rating Boxplot</ins>
+
+![prop_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221440720-0e1061eb-80f3-460e-a304-9b5fd6b3c211.png)
+
+#### <ins>Voluntary Non-Profit Religious Patient Survey Star Rating Statistical Description</ins>
+
+![vol_np_rel_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440782-77889b0c-e383-484a-9082-53f303e2ea7b.png)
+
+#### <ins>Voluntary Non-Profit Religious Patient Survey Star Rating Boxplot</ins>
+
+![vol_np_rel_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221440876-9d76fecf-ace4-48f1-9e31-c41122b45f9a.png)
+
+#### <ins>Voluntary Non-Profit Other Patient Survey Star Rating Statistical Description</ins>
+
+![vol_np_other_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221440960-34f7e10e-1d48-48af-82ab-9d05973058b2.png)
+
+#### <ins>Voluntary Non-Profit Other Patient Survey Star Rating Boxplot</ins>
+
+![vol_np_other_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221441022-f318c592-c7c8-4161-b179-f0054328a4ad.png)
+
+#### <ins>Voluntary Non-Profit Private Patient Survey Star Rating Statistical Description</ins>
+
+![vol_np_private_ps_sr_desc](https://user-images.githubusercontent.com/94148420/221441088-0d098864-702d-4c08-9ea6-3e467e44555b.png)
+
+#### <ins>Voluntary Non-Profit Private Patient Survey Star Rating Boxplot</ins>
+
+![vol_np_private_ps_sr_boxplot](https://user-images.githubusercontent.com/94148420/221441152-2b46c0cd-13e8-4b39-9289-36e13fc8f883.png)
+
+### Additional Analysis - Willingness to Recommend
+
+#### <ins>National Willingness to Recommend Statistical Description</ins>
+
+![nat_wtr_desc](https://user-images.githubusercontent.com/94148420/221441527-4c819077-cbcc-45f5-b494-eebed6ac258d.png)
+
+#### <ins>National Willingness to Recommend Boxplot</ins>
+
+![nat_wtr_boxplot](https://user-images.githubusercontent.com/94148420/221441460-aba763e3-d319-4288-982d-eacb2d9a984e.png)
+
+#### <ins>State Willingness to Recommend Statistical Description (AK through MS)</ins>
+
+![state_wtr_desc_1](https://user-images.githubusercontent.com/94148420/221441629-62239a5f-65a8-4aa1-a03d-ca09052ec40d.png)
+
+#### <ins>State Willingness to Recommend Statistical Description (MT through WY)</ins>
+
+![state_wtr_desc_2](https://user-images.githubusercontent.com/94148420/221441739-fee9b2ec-13b8-403c-af58-1a4837041890.png)
+
+#### <ins>State Willingness to Recommend Boxplot</ins>
+
+![state_wtr_boxplot_1](https://user-images.githubusercontent.com/94148420/221441958-b8131089-0046-4fd7-b5b9-e6a68560310f.png)
+
+![state_wtr_boxplot_2](https://user-images.githubusercontent.com/94148420/221442030-6da97398-37c7-4844-b9c5-6185b2077cdc.png)
+
+#### <ins>Type of Ownership Willingness to Recommend Statistical Description</ins>
+
+![too_wtr_desc](https://user-images.githubusercontent.com/94148420/221442182-e4735f99-d149-4e41-9793-5523465ebc8f.png)
+
+#### <ins>Type of Ownership Willingness to Recommend Boxplot</ins>
+
+![too_wtr_boxplot](https://user-images.githubusercontent.com/94148420/221442147-406bbc1b-9306-48f2-8318-92ee93c20afd.png)
+
+### Additional Analysis - Response Rate
+
+#### <ins>National Response Rate Statistical Description</ins>
+
+![nat_rr_desc](https://user-images.githubusercontent.com/94148420/221442262-2b72ea97-c52f-4661-89e0-df5548412b51.png)
+
+#### <ins>National Response Rate Boxplot</ins>
+
+![nat_rr_boxplot](https://user-images.githubusercontent.com/94148420/221442303-6fd11508-302a-4c8c-bdb4-3e5003c69c47.png)
+
+#### <ins>State Response Rate Statistical Description (AK through MS)</ins>
+
+![state_rr_desc_1](https://user-images.githubusercontent.com/94148420/221442378-34faa580-f625-40fe-b99a-f0dfbe23c1c8.png)
+
+#### <ins>State Response Rate Statistical Description (MT through WY)</ins>
+
+![state_rr_desc_2](https://user-images.githubusercontent.com/94148420/221442478-29a5d22c-8a56-4445-a09c-e50ed17f331f.png)
+
+#### <ins>State Response Rate Boxplot</ins>
+
+![state_rr_boxplot_1](https://user-images.githubusercontent.com/94148420/221442552-ef858b02-2b3b-44c1-9454-bd2e9e039446.png)
+
+![state_rr_boxplot_2](https://user-images.githubusercontent.com/94148420/221442601-9d1ec9a5-f1d4-45da-b1a6-63ac4f8c2911.png)
+
+#### <ins>Type of Ownership Response Rate Statistical Description</ins>
+
+![too_rr_desc](https://user-images.githubusercontent.com/94148420/221442657-ceac67ef-200e-4c0d-b1d9-9ce938257ed2.png)
+
+#### <ins>Type of Ownership Response Rate Boxplot</ins>
+
+![too_rr_boxplot](https://user-images.githubusercontent.com/94148420/221442759-921ba799-50e2-4678-9e76-cafc7bbdf945.png)
+
+**Back to [Quick Links](#quick-links)**
+
+
