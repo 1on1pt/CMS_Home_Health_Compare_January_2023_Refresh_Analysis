@@ -647,7 +647,7 @@ Here is a statistical description of the overall patient survey star rating and 
 
 #### <ins>State Patient Survey Star Rating Statistical Description (MT through WY)</ins>
 
-![state_ps_sr_desc_2](https://user-images.githubusercontent.com/94148420/221436593-de688e43-5c1c-4687-a5fe-75f07e83948d.png)
+![state_ps_sr_desc_2](https://user-images.githubusercontent.com/94148420/221443248-6d354806-20e4-4f32-ad17-0f6ea4ebc7a9.png)
 
 #### <ins>State Patient Survey Star Rating Boxplot</ins>
 
