@@ -13,7 +13,7 @@ Welcome to the debut of the CMS Home Health Compare Refresh Analysis.  This firs
 ## Overview
 ### What is CMS Care Compare?
 
-The Centers for Medicare and Medicaid Services (CMS) has provided a tool called **Care Compare** to *find* and *compare* the different types of Medicare providers.  Care Compare includes the following providers:
+The Centers for Medicare and Medicaid Services (CMS) has provided a tool called **Care Compare** that allows patients and caregivers to *find* and *compare* the different types of Medicare providers.  Care Compare includes the following providers:
 
 * Doctors and Clinicians
 * Hospitals
