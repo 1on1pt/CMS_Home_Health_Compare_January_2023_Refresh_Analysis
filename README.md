@@ -66,9 +66,9 @@ Additional detail regarding home health quality and patient survey star ratings 
 
 The quality and patient survey data will be analyzed and presented on three levels:
 
-* National level
-* State level
-* Type of Ownership level
+* National
+* State
+* Type of Ownership
 
 ### Resources
 #### Code:
@@ -143,15 +143,15 @@ Here is a statistical description of the overall quality star rating and the sev
 
 ### What is the State Level Quality Star Rating Distribution?
 
-#### <ins>State Level Quality Star Rating Statistical Description (AK through MS)</ins>
+#### <ins>State Quality Star Rating Statistical Description (AK through MS)</ins>
 
 ![state_sr_stat_desc_1a](https://user-images.githubusercontent.com/94148420/221028675-a65ab789-1f07-4705-bc0e-e9333f68213c.png)
 
-#### <ins>State Level Quality Star Rating Statistical Description (MT through WY)</ins>
+#### <ins>State Quality Star Rating Statistical Description (MT through WY)</ins>
 
 ![state_sr_stat_desc_2a](https://user-images.githubusercontent.com/94148420/221028907-8180600a-d1d6-40f4-aabe-10d828755b79.png)
 
-#### <ins>State Level Quality Star Rating Boxplot</ins>
+#### <ins>State Quality Star Rating Boxplot</ins>
 
 ![state_sr_stat_boxpl_1](https://user-images.githubusercontent.com/94148420/220785049-9b2e17a0-1dad-4b91-a0ed-bbc755df0422.png)
 
@@ -269,15 +269,15 @@ Take note of all the outliers!
 
 ![nat_teach_dr_boxplot](https://user-images.githubusercontent.com/94148420/221357743-2d60e093-9435-4468-ba57-126216141baf.png)
 
-#### <ins>State Level Teaching Patients/Caregivers About Drugs Statistical Description (AK through MS)</ins>
+#### <ins>State Teaching Patients/Caregivers About Drugs Statistical Description (AK through MS)</ins>
 
 ![state_teach_dr_desc_1](https://user-images.githubusercontent.com/94148420/221358130-4f9a98f2-c8bb-49ae-842d-e18552f4a2c8.png)
 
-#### <ins>State Level Teaching Patients/Caregivers About Drugs Statistical Description (MT through WY)</ins>
+#### <ins>State Teaching Patients/Caregivers About Drugs Statistical Description (MT through WY)</ins>
 
 ![state_teach_dr_desc_2](https://user-images.githubusercontent.com/94148420/221358342-0d27377c-10a3-4f65-9398-6ad703c71b96.png)
 
-#### <ins>State Level Teaching Patients/Caregivers About Drugs Boxplot</ins>
+#### <ins>State Teaching Patients/Caregivers About Drugs Boxplot</ins>
 
 ![state_teach_dr_boxplot_1](https://user-images.githubusercontent.com/94148420/221358453-cefe084d-22c4-4586-85c2-50ab23c0c1ee.png)
 
@@ -301,15 +301,15 @@ Take note of all the outliers!
 
 ![nat_flu_shot_boxplot](https://user-images.githubusercontent.com/94148420/221359252-f4097cda-e76b-4caa-a6e6-a134aae45ec6.png)
 
-#### <ins>State Level Flu Shot Statistical Description (AK through MS)</ins>
+#### <ins>State Flu Shot Statistical Description (AK through MS)</ins>
 
 ![state_flu_shot_desc_1](https://user-images.githubusercontent.com/94148420/221359370-6c7f53ba-9fd1-4096-a0d3-513956770e08.png)
 
-#### <ins>State Level Flu Shot Statistical Description (MT through WY)</ins>
+#### <ins>State Flu Shot Statistical Description (MT through WY)</ins>
 
 ![state_flu_shot_desc_2](https://user-images.githubusercontent.com/94148420/221359450-175e3f87-fe05-4945-90bb-dd4b2921d1ce.png)
 
-#### <ins>State Level Flu Shot Boxplot</ins>
+#### <ins>State Flu Shot Boxplot</ins>
 
 ![state_flu_shot_boxplot_1](https://user-images.githubusercontent.com/94148420/221359566-9c2bbe33-fb4f-4727-8bf7-9eb32047a62a.png)
 
@@ -333,16 +333,16 @@ Take note of all the outliers!
 
 ![nat_er_wo_adm_boxplot](https://user-images.githubusercontent.com/94148420/221365016-a9cd56c9-d48c-48aa-8296-b9ccc1f35188.png)
 
-#### <ins>State Level ER Without Being Admitted Statistical Description (AK through MS)</ins>
+#### <ins>State ER Without Being Admitted Statistical Description (AK through MS)</ins>
 
 ![state_er_wo_adm_desc_1](https://user-images.githubusercontent.com/94148420/221365742-cb41ffcc-c430-48a0-8b3a-72c9afbdd104.png)
 
 
-#### <ins>State Level ER Without Being Admitted Statistical Description (MT through WY)</ins>
+#### <ins>State ER Without Being Admitted Statistical Description (MT through WY)</ins>
 
 ![state_er_wo_adm_desc_2](https://user-images.githubusercontent.com/94148420/221365278-b6805330-9b64-4cc5-8a06-e9f4702a220d.png)
 
-#### <ins>State Level ER Without Being Admitted Boxplot</ins>
+#### <ins>State ER Without Being Admitted Boxplot</ins>
 
 ![state_er_wo_adm_boxplot_1](https://user-images.githubusercontent.com/94148420/221365414-dd045922-b830-4358-bc59-5af895244e5d.png)
 
@@ -366,15 +366,15 @@ Take note of all the outliers!
 
 ![nat_si_pu_boxplot](https://user-images.githubusercontent.com/94148420/221378342-b22089c9-92fe-47b0-8946-63507ec82dc0.png)
 
-#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Statistical Description (AK through MS)</ins>
+#### <ins>State Skin Integrity Pressure Ulcer/Injury Statistical Description (AK through MS)</ins>
 
 ![state_si_pu_desc_1](https://user-images.githubusercontent.com/94148420/221378455-c24b5eaa-dad4-4808-9018-c7caee8d5069.png)
 
-#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Statistical Description (MT through WY)</ins>
+#### <ins>State Skin Integrity Pressure Ulcer/Injury Statistical Description (MT through WY)</ins>
 
 ![state_si_pu_desc_2](https://user-images.githubusercontent.com/94148420/221378556-848a94ea-70e2-4c62-b81d-e1a3302b90e9.png)
 
-#### <ins>State Level Skin Integrity Pressure Ulcer/Injury Boxplot</ins>
+#### <ins>State Skin Integrity Pressure Ulcer/Injury Boxplot</ins>
 
 ![state_si_pu_boxplot_1](https://user-images.githubusercontent.com/94148420/221378671-3fe51996-224c-4bc4-b2c8-a4081e089178.png)
 
@@ -398,15 +398,15 @@ Take note of all the outliers!
 
 ![nat_med_tim_boxplot](https://user-images.githubusercontent.com/94148420/221379108-c24df0fd-206a-4e91-905d-cb66f6514010.png)
 
-#### <ins>State Level Medication Issues Were Completed Timely Statistical Description (AK through MS)</ins>
+#### <ins>State Medication Issues Were Completed Timely Statistical Description (AK through MS)</ins>
 
 ![state_med_tim_desc_1](https://user-images.githubusercontent.com/94148420/221379178-45dbc0d0-9dc1-45cc-8be5-c14b01a83b25.png)
 
-#### <ins>State Level Medication Issues Were Completed Timely Statistical Description (MT through WY)</ins>
+#### <ins>State Medication Issues Were Completed Timely Statistical Description (MT through WY)</ins>
 
 ![state_med_tim_desc_2](https://user-images.githubusercontent.com/94148420/221379238-d12f81ad-9217-4640-b8f7-632b7930b8e2.png)
 
-#### <ins>State Level Medication Issues Were Completed Timely Boxplot</ins>
+#### <ins>State Medication Issues Were Completed Timely Boxplot</ins>
 
 ![state_med_tim_boxplot_1](https://user-images.githubusercontent.com/94148420/221379356-2dbeeae4-5a6c-47ba-8bb7-9b0d146c8277.png)
 
