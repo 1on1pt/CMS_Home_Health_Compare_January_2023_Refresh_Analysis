@@ -55,7 +55,7 @@ The 7 measures that are part of the Quality of Patient Star Rating are:
 
 ### Patient Survey Star Ratings Overview
 
-CMS also states that all Medicare-certified HHAs have the potential to receive a Patient Survey Star Rating. However, HHAs must have 40 or more completed surveys over the four-quarter reporting period to receive Star Ratings for that reporting period. Home health agencies that do not have 40 or more completed surveys for calculating Star Ratings will still have their patinet survey (HHCAHPS) data publicly reported on the Home Health Compare website, but they will not receive star ratings.  HHCAHPS scores based on fewer than 40 completed surveys do not have sufficient statistical reliability to ensure that those scores measure true performance and not noise in the data for reporting star ratings.
+CMS also states that all Medicare-certified HHAs have the potential to receive a Patient Survey Star Rating. However, HHAs must have 40 or more completed surveys over the four-quarter reporting period to receive Star Ratings for that reporting period. Home health agencies that do not have 40 or more completed surveys for calculating Star Ratings will still have their patient survey (HHCAHPS) data publicly reported on the Home Health Compare website, but they will not receive star ratings.  HHCAHPS scores based on fewer than 40 completed surveys do not have sufficient statistical reliability to ensure that those scores measure true performance and not noise in the data for reporting star ratings.
 
 The Patient Survey star ratings include these four measures reported on Care Compare:
 
