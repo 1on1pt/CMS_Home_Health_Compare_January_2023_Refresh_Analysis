@@ -801,7 +801,7 @@ This debut of the CMS Home Health Compare Refresh Analysis is a comprehensive an
 
 ### Recommendations for Future Analysis
 
-* One goal of this analysis was to exclusively use Python.  Future considerations could include other data tools, including Tableau.
+* One goal of this analysis was to exclusively use Python.  Future considerations could include employing other data tools, including Tableau.
 * There are many outliers in the data.  Future considerations could include taking a deeper dive into these outliers.
 * Analyze any potential geographical differences in Quality and Patient Survey Star Rating outcomes.
 
