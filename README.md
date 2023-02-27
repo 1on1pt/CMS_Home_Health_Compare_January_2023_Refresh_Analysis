@@ -797,9 +797,24 @@ In addition to the boxplot above, each type of ownership was analyzed for its sp
 
 ## Summary
 
+This debut of the CMS Home Health Compare Refresh Analysis is a comprehensive analysis and data story of the **CMS January 2023 Home Health Compare Refresh**.  Home Health Quality Star Rating, Patient Survey Star Rating, and additional measures publicly reported on Home Health Compare were analyzed and described at a high level.
 
 ### Recommendations for Future Analysis
 
+* One goal of this analysis was to exclusively use Python.  Future considerations could include other data tools, including Tableau.
+* There are many outliers in the data.  Future consideration could include taking a deeper dive into these outliers.
+* Look for geographical differences in Quality and Patient Survey Star Rating outcomes.
+
 ### What Would Have Done Differently
 
+* Increase efficiency with code writing
+*
 **Back to [Quick Links](#quick-links)**
+
+Thank you for taking the time to review this **CMS January 2023 Home Health Compare Refresh Analysis**.  Please provide any feedback or suggestions for future analysis.
+
+John Beauchamp
+
+e-mail: jbeauchamppt@gmail.com
+
+LinkedIn:  https://www.linkedin.com/in/johnbeauchamppt/
