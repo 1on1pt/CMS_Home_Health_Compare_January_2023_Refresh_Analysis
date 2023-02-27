@@ -616,7 +616,7 @@ Here is the heatmap showing the correlation of the overall patient survey star r
 
 ![ps_sr_corr_heatmap](https://user-images.githubusercontent.com/94148420/221435052-3db566d2-7574-4562-a811-84f1a9879ca1.png)
 
-Here is how the four measures correlated with the overall patient survey star rating:
+This is how the four measures correlated with the overall patient survey star rating:
 
 1. Star Rating for Care of Patients (0.84)
 2. Star Rating for Communication Between Provider and Patients (0.83)
