@@ -815,6 +815,6 @@ Thank you for taking the time to review this **CMS January 2023 Home Health Comp
 
 John Beauchamp
 
-e-mail: jbeauchamppt@gmail.com
+e-mail: [jbeauchamppt@gmail.com](jbeauchamppt@gmail.com)
 
-LinkedIn:  https://www.linkedin.com/in/johnbeauchamppt/
+LinkedIn:  [https://www.linkedin.com/in/johnbeauchamppt/](https://www.linkedin.com/in/johnbeauchamppt/)
